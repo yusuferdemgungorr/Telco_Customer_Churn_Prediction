@@ -28,7 +28,7 @@ Müşteri kazanım maliyetlerinin (CAC), müşteriyi elde tutma (Retention) mali
 
 ## 📝 Medium Makalesi
 Bu projenin adım adım nasıl geliştirildiğini, kodların arkasındaki iş mantığını ve istatistiksel sonuçların şirket stratejilerine nasıl entegre edilebileceğini detaylıca anlattığım Medium makaleme buradan ulaşabilirsiniz:
-👉 **[Medium Makalesi Linki Buraya Gelecek]**
+👉 https://medium.com/@yusufgungor997/makine-%C3%B6%C4%9Frenmesi-ile-m%C3%BC%C5%9Fteri-kayb%C4%B1n%C4%B1-churn-%C3%B6nlemek-u%C3%A7tan-uca-lojistik-regresyon-projesi-4eddcccb5a46
 
 ## 👨‍💻 Geliştirici
 **Yusuf Erdem Güngör** 
