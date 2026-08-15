@@ -23,7 +23,9 @@ Müşteri kazanım maliyetlerinin (CAC), müşteriyi elde tutma (Retention) mali
 * **Veri Görselleştirme:** Matplotlib, Seaborn
 
 ## 📂 Klasör Yapısı
-* `data/` : Projede kullanılan veri setini barındırır.
+* `data/` : Projeye ait veri setlerini barındırır. İçerisinde iki dosya bulunur:
+  * `WA_Fn-UseC_-Telco-Customer-Churn.csv`: Kaggle üzerinden alınan orijinal (ham) veri seti.
+  * `telco_churn_eda_temizlenmis.csv`: Jupyter Notebook içerisindeki veri temizleme adımları çalıştırıldığında, kod tarafından otomatik olarak oluşturulan ve dışa aktarılan temizlenmiş veri seti (Checkpoint).
 * `Telco_Customer_Churn_Prediction.ipynb` : Keşifçi Veri Analizi (EDA), veri ön işleme, model eğitimi ve iş zekası yorumlamalarını içeren ana çalışma dosyasıdır.
 
 ## 📝 Medium Makalesi
